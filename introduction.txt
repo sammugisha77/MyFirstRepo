@@ -1,0 +1,4 @@
+Brief Introduction About Myself
+
+My name is Sam Mugisha, and I am a passionate individual dedicated to leveraging technology to improve lives, particularly in rural communities. As a computer engineering student, I am excited to explore tools like Git and GitHub to collaborate on innovative projects. This course is equipping me with essential skills in version control, which I aim to apply in developing impactful software solutions. In my spare time, I enjoy working on tech-driven community projects, learning about advancements in healthcare technology, and playing soccer to stay active. My goal is to contribute to open-source initiatives and create applications that address real-world challenges in rwanda and beyond.
+ 
